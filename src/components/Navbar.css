@@ -1,0 +1,17 @@
+.navbar{
+  height: 80px;
+  border-bottom: 1px solid #f7e4d7;  
+  box-shadow: 0 0 40px #f0ead6 ;
+}
+.navbar ul{
+  display: flex;
+ 
+ }
+ .navbar ul li{
+  list-style-type: none;
+  margin: 10px;
+ }
+ .navbar ul li .menu{
+  text-decoration: none;
+ 
+ }

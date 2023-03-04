@@ -1,0 +1,21 @@
+Context API=>To avoid props drilling use context api.
+
+createContext to create Context
+useContext to use Context
+--------------------
+install react-router-dom
+
+context=>state hold karega
+-----------------------
+props.children=>In jsx expressions that contain both an opening tag and a closing tag,
+the content between those tags is passed as a special prop :props.children.
+
+
+-------------------------------
+<Student>I am a developer</Student>
+Here I am a developer is a children
+
+props.children => I am a developer
+---------------------
+useEffect->[]=>If we execute 1 time
+-----------
